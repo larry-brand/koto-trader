@@ -1,0 +1,22 @@
+{
+  "tickers": [
+    {
+      "tickerName": "Si",
+      "market": "14",
+      "em": "19899",
+      "code": "SPFB.Si"
+    },
+    {
+      "tickerName": "BR",
+      "market": "14",
+      "em": "22460",
+      "code": "SPFB.BR"
+    },
+    {
+      "tickerName": "RTS",
+      "market": "14",
+      "em": "17455",
+      "code": "SPFB.RTS1"
+    }
+  ]
+}
