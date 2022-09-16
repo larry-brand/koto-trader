@@ -1,5 +1,7 @@
 # KotoTrader
 
+![badge](https://github.com/larry-brand/koto-trader/actions/workflows/gradle.yml/badge.svg)
+
 KotoTrader is SDK platform for creating trading robots.
 You can write robot on Kotlin, download history, simulate your robot on history and finally run your robot with real brokers (Finam, etc).
 
